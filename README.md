@@ -1,2 +1,2 @@
-#To execute the program, type:
+# To execute the program, type:
 python hello.py
